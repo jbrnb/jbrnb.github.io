@@ -1,0 +1,516 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "参数27"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "参数28"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "参数29"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "参数30"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "参数31"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "参数32"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "参数33"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "参数34"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "中"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "参数36"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "参数37"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "",
+			"Name": "中左"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "",
+			"Name": "参数57"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "",
+			"Name": "参数58"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "上"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "参数39"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "参数40"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "上左"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "参数54"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "",
+			"Name": "参数55"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "下左"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "参数42"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "参数49"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "下右"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "参数51"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "参数52"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "g"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "g"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "参数44"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "",
+			"Name": "参数44"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "参数45"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "参数45"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "",
+			"Name": "er"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "",
+			"Name": "参数60"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "",
+			"Name": "参数61"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "",
+			"Name": "参数62"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "",
+			"Name": "参数63"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "",
+			"Name": "er2"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "",
+			"Name": "参数65"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "",
+			"Name": "参数66"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "",
+			"Name": "参数67"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "",
+			"Name": "参数68"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "",
+			"Name": "ry"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "",
+			"Name": "参数70"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "",
+			"Name": "参数71"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "",
+			"Name": "参数72"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "",
+			"Name": "鼓嘴"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "",
+			"Name": "歪嘴"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "",
+			"Name": "吐舌"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动 前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动 侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动 后发"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Folder 1"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part28",
+			"Name": "八重神子.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "刘海"
+		},
+		{
+			"Id": "Part4",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part5",
+			"Name": "眼睛 副本"
+		},
+		{
+			"Id": "Part6",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part7",
+			"Name": "鼻子"
+		},
+		{
+			"Id": "Part8",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part9",
+			"Name": "腮红"
+		},
+		{
+			"Id": "Part10",
+			"Name": "脸皮"
+		},
+		{
+			"Id": "Part23",
+			"Name": "部件23"
+		},
+		{
+			"Id": "Part19",
+			"Name": "耳朵 副本"
+		},
+		{
+			"Id": "Part20",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "Part11",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part17",
+			"Name": "胳膊 副本"
+		},
+		{
+			"Id": "Part18",
+			"Name": "胳膊"
+		},
+		{
+			"Id": "Part21",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part22",
+			"Name": "新建组"
+		},
+		{
+			"Id": "Part25",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part2",
+			"Name": "组 1 副本"
+		},
+		{
+			"Id": "Part3",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part24",
+			"Name": "部件24"
+		},
+		{
+			"Id": "Part12",
+			"Name": "项链"
+		},
+		{
+			"Id": "Part13",
+			"Name": "腰"
+		},
+		{
+			"Id": "Part14",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part16",
+			"Name": "脖子"
+		},
+		{
+			"Id": "Part15",
+			"Name": "身躯"
+		},
+		{
+			"Id": "Part26",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part27",
+			"Name": "身躯"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

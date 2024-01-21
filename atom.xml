@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-20T08:20:44.436Z</updated>
+  <updated>2024-01-21T10:18:59.498Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/01/19/TLXJH-s-first-test/"/>
     <id>http://example.com/2024/01/19/TLXJH-s-first-test/</id>
     <published>2024-01-19T12:20:21.000Z</published>
-    <updated>2024-01-20T08:20:44.436Z</updated>
+    <updated>2024-01-21T10:18:59.498Z</updated>
     
     
     <summary type="html">&lt;p&gt;天狼星计划的第一个文本&lt;/p&gt;
@@ -31,8 +31,14 @@
     
     
     
+    <category term="测试案" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95%E6%A1%88/"/>
     
-    <category term="试验/教程" scheme="http://example.com/tags/%E8%AF%95%E9%AA%8C-%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="试验" scheme="http://example.com/tags/%E8%AF%95%E9%AA%8C/"/>
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   

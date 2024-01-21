@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "八重神子.moc3",
+		"Textures": [
+			"八重神子.16384/texture_00.png",
+			"八重神子.16384/texture_01.png"
+		],
+		"Physics": "八重神子.physics3.json",
+		"DisplayInfo": "八重神子.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
